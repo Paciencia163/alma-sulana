@@ -24,7 +24,7 @@ const Contato = () => {
     {
       icon: Phone,
       title: "Telefone",
-      value: "+244 947 408 021,
+      value: "+244 947 408 021",
       link: "tel:+244947408021",
     },
     {
