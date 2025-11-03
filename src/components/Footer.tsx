@@ -65,7 +65,7 @@ const Footer = () => {
               </li>
               <li className="flex items-start gap-2 text-sm text-muted-foreground">
                 <Phone size={16} className="mt-0.5 flex-shrink-0" />
-                <span>+244 947 408 021</span>
+                <span>+244 9xx xxx xxx</span>
               </li>
               <li className="flex items-start gap-2 text-sm text-muted-foreground">
                 <MapPin size={16} className="mt-0.5 flex-shrink-0" />
