@@ -24,13 +24,13 @@ const Contato = () => {
     {
       icon: Phone,
       title: "Telefone",
-      value: "+258 84 123 4567",
-      link: "tel:+258841234567",
+      value: "+244 947 408 021,
+      link: "tel:+244947408021",
     },
     {
       icon: MapPin,
       title: "Localização",
-      value: "Maputo, Moçambique",
+      value: "Luanda, Angola",
       link: null,
     },
   ];
